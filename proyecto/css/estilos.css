@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+
+:root {
+  --color-naranja: #b8421e;
+  
+}
+
+.navbar-main .active{
+    text-decoration: underline;
+    text-underline-offset: 10px;
+  }
+.navbar-main{
+    height: 15vh;
+}
+.color{
+    background-color: var(--color-naranja);
+  }
+
+.navbar-main .border{
+    border: solid black 2px;
+  }  
+
+.header-main{
+  margin-top: 100px;
+}  
+
+.letra{
+  color: var(--color-naranja);
+}
+
